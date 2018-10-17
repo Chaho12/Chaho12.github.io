@@ -2,9 +2,14 @@
 layout: default
 ---
 
+<!--
+마크다운으로 주석 처리 가능
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+
+
 
 There should be whitespace between paragraphs.
 
@@ -121,3 +126,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+-->
